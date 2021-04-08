@@ -1,0 +1,10 @@
+{
+  "auth": {
+    "cakeapp8d361c00": {
+      "service": "Cognito",
+      "providerPlugin": "awscloudformation",
+      "dependsOn": [],
+      "customAuth": false
+    }
+  }
+}
